@@ -46,6 +46,9 @@ class Main extends Sprite {
 		t.setTextFormat(tf);
 		//t.defaultTextFormat = tf;
 		
+		//var v = "Es el conjunto de conocimientos y habilidades necesarias para la colaboración humana cada vez que sea necesario reunirse o comunicarse por medio de herramientas digitales. " +
+		//"Se ahorra tiempo y dinero, mejorando así el entorno de la oficina y aumento de la productividad. ";
+			
 		var v = "Soluciones que ayudan a explorar libremente sus datos y descubrir tendencias que no haya visto antes:\n\n" +
 		". Implementación rápida de aplicaciones y cuadros de mando mediante el uso de herramientas de Business Intelligence Self Service\n. Analítica personalizada e integrada\n. Descubrimiento interactivo de datos";
 			
